@@ -28,5 +28,5 @@
 </div>
 
 [![chaeun's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaeun1117&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/chaeun1117/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaeun1117&layout=donut)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaeun1117&layout=donut)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
