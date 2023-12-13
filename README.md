@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subhadeepzilong&label=Profile%20views&color=0e75b6&style=flat" alt="subhadeepzilong" /> </p>
 
 
-
+[![chaeun's GitHub stats](https://github-readme-stats.vercel.app/api?username=rkalshs&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/rkalshs/github-readme-stats)
 
  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Sport+Engineering+Student;passion+Developer;Always+learning+new+things&center=true&width=500&height=50"></a>
 
