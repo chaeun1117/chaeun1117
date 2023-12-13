@@ -3,7 +3,6 @@
   
 <br>
 <p><img align="right" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="SubhadeepZilong" /></p>
-[![chaeun's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaeun1117&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/chaeun1117/github-readme-stats)
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
     <a href="https://www.instagram.com/6_o777/">
@@ -13,7 +12,7 @@
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
     </a>
 </div><br>
-
+[![chaeun's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaeun1117&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/chaeun1117/github-readme-stats)
 ## 🔨 Once I've used 🔨
 <div style="display:flex; flex-direction:row;">
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> 
@@ -28,6 +27,5 @@
 </div><br>
 </div>
 
-[![chaeun's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaeun1117&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/chaeun1117/github-readme-stats)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
