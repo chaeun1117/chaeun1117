@@ -13,7 +13,7 @@
     </a>
 </div><br>
 
-## 🔨 Once I've used 🔨
+## 🔨 Once I've used 🔨 ##
 <div style="display:flex; flex-direction:row;">
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> 
     <!--<img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white"> --> 
