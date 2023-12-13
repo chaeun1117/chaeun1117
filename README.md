@@ -2,7 +2,7 @@
 ---
   
 <br>
-<p><img align="right" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="SubhadeepZilong" /></p>
+<p><img align="right" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_400_kxa883sd.gif" alt="SubhadeepZilong" /></p>
 ## 📞 Contact 📞 ##
 <div style="display:flex; flex-direction:row;">
     <a href="https://www.instagram.com/chaeun_1117/">
